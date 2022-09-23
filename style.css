@@ -1,0 +1,35 @@
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+    
+  }
+  .body {
+    background-color: aquamarine;
+
+
+
+  }
+  .img1{
+    width: auto;
+    height: auto;
+    border: 3px solid rgb(11, 192, 168);
+
+
+  }
+  .text{
+  margin-top: 50px;
+
+
+  }
+  .button1{
+border-radius: 36px;
+color: rgb(0, 42, 255);
+background-color: beige;
+text-align: center;
+
+
+  }
+  
